@@ -1,0 +1,14 @@
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub OWNER Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+   </repository>
+</distributionManagement>
+<dependencies>
+  <dependency>
+    <groupId>Milotin.com</groupId>
+    <artifactId>MilotinEditor</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </dependency>
+</dependencies>

@@ -1,0 +1,1 @@
+You must Create Shortcut Minecraft In This Folder
